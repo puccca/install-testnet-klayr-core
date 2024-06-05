@@ -1,7 +1,7 @@
 ## 8 steps to install klayr-core@latest with npm on testnet network
 
 System requirements:
-- Ubuntu 22.04 or Ubuntu 20.04
+- Ubuntu 22.04
 - 4GB RAM
 - Some basic configuration to secure the server (sudo user, public & private keys, change ssh port to access the server etc.)
 
