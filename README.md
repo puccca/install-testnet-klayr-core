@@ -21,6 +21,7 @@ sudo ufw default allow outgoing
 ```shell
 sudo ufw allow "7667/tcp"
 sudo ufw allow "7887/tcp"
+sudo ufw allow 8778
 ```
 **SSH port**
 ```shell
